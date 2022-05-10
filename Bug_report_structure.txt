@@ -1,0 +1,11 @@
+Progect
+ID
+Created date (updated date)
+Summary (steps to reproduce, actual result, expected result, reproducibility)
+Status (open, assigned, in progress, fixed, verified, reopened, declined, closed)
+Priority (high, medium, low)
+Severity (blocker, critical, major, minor, trivial)
+Author
+Assignee
+Environment 
+Attachments
