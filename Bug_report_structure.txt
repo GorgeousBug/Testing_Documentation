@@ -1,8 +1,9 @@
 Progect
 ID
 Created date (updated date)
-Summary (steps to reproduce, actual result, expected result, reproducibility)
+Summary 
 Status (open, assigned, in progress, fixed, verified, reopened, declined, closed)
+Description (steps to reproduce, actual result, expected result, reproducibility)
 Priority (high, medium, low)
 Severity (blocker, critical, major, minor, trivial)
 Author
