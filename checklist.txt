@@ -1,0 +1,16 @@
+Checklist structure:
+
+name
+description
+build
+environment
+test date
+tester
+
+Stand alone module checks
+
+name
+description
+test type
+checking
+result
